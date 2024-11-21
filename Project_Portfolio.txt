@@ -1,0 +1,98 @@
+                           Project Portfolio:
+
+CigarsIndia – E-Commerce Testing (Manual & Automation Testing)
+Performed both manual and automation testing for the CigarsIndia e-commerce platform, ensuring functionality across various features like product search, 
+checkout process, and payment gateway. Created test cases, executed them, and automated repetitive tests to improve efficiency and coverage.
+
+MINOR HOTELS – Hotel Booking Platform (Manual Testing)
+Tested 4 hotels within the system.
+
+Skyscanner Limited – Travel Booking Agency (Manual Testing)
+Performed manual testing on travel booking features.
+
+Major League Baseball (MLB App) – Sports App (Manual Testing)
+Manual testing of MLB mobile app features.
+
+Aditya Birla Online Fashion (abof) – E-Commerce Umbrella App (Manual Testing)
+Manual testing of an e-commerce app with 6 fashion brands. Top Tester.
+
+Aditya Birla Health (Activ App) – Health Management App (Manual Testing)
+Tested app features for tracking health, healthcare access, and insurance details.
+
+Lenskart Solutions Pvt Ltd – E-Commerce (Manual Testing)
+Testing of an online eyewear store.
+
+Rolex SA – Luxury E-Commerce (Manual Testing)
+Tested online luxury watch shopping platform.
+
+JibJab Media Inc. – Ecard Personalization App (Manual Testing)
+Manual testing of an app for creating personalized e-cards and videos.
+
+Ferrero International – MyFerrari App (Manual Testing)
+Tested Ferrari’s client-focused app for car tracking and dealership services.
+
+Spotify Limited – Audio Streaming App (Manual Testing)
+Manual testing of the Spotify audio streaming platform and website.
+
+Dragonplay – Game (Manual Testing)
+Tested features of a game with mythical creature avatars.
+
+Kahoot – Learning Platform (Manual Testing)
+Testing for a game-based educational platform used by 1+ billion players.
+
+Onnivation Ventures Pvt Ltd (Zee OTT) – OTT Platform (Manual Testing)
+Tested OTT streaming platform for content delivery.
+
+Photoleap – Photo Editing App (Manual Testing)
+Tested creative photo editing app for mobile.
+
+Videoleap – Video Editing App (Manual Testing)
+Manual testing of video editing tools and features.
+
+Onnivation Ventures Pvt Ltd (Sony OTT) – OTT Platform (Manual Testing)
+Testing for Sony’s OTT service.
+
+Hotstar – Streaming App (Manual Testing)
+Manual testing of streaming features for Hotstar platform.
+
+Inshorts – News App (Manual Testing)
+Tested app for delivering news in less than 60 words.
+
+Public App – News App (Manual Testing)
+Tested news video app, providing updates in under 2 minutes.
+
+AU10TIX – Identity Management Platform (Manual Testing)
+Testing for identity verification solutions.
+
+Loco – Gaming & Streaming Platform (Manual Testing)
+Tested online gaming and live-streaming app.
+
+OTT Play – OTT Platform Discovery (Manual Testing)
+Testing for a platform that helps users find content to watch.
+
+BiP Messenger – Communication App (Manual Testing)
+Manual testing of messaging and video calling app for Android & iOS.
+
+Coinbase – Cryptocurrency Platform (Manual Testing)
+Testing of buying, selling, and transferring cryptocurrencies on the platform.
+
+Monday – Workflow Automation Platform (Manual Testing)
+Testing of a customizable project management tool.
+
+Healint (Migraine Buddy) – Health App (Manual Testing)
+Testing for an app tracking migraine episodes on Android and iOS.
+
+Sugarcube – Room Visualization App (Manual Testing)
+Testing Android and iOS apps for room scanning and visualization.
+
+Ikea – E-Commerce (Manual Testing)
+Manual testing for online furniture shopping platform.
+
+ImmanualMTC – Church Mission & Charity (Manual & Automation Testing)
+Created test plans, scenarios, cases, and bug reports. Built automation framework from scratch using Selenium, Java, and Appium.
+
+Bark Bureau – Dog Shelter App (Manual Testing)
+Tested Android & iOS dog shelter platform, created test plans, scenarios, cases, and feedback reports.
+
+Confidential Projects (uTest) – Various Domains (Manual & Automation Testing)
+Worked on confidential projects for clients in various domains. Due to NDA, specific details cannot be disclosed.
